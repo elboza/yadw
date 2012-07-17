@@ -3,5 +3,22 @@
 
     <string name="hello">Hello World!</string>
     <string name="app_name">Yet Another Date Widget</string>
-
+    <string name="app_nameMini">yadw-mini</string>
+    <string name="widgetname2x1">yadw (2x1)</string>
+    <string name="widgetname1x1">yadw (1x1)</string>
+<string-array name="myColors">
+        <item>white</item>
+        <item>yellow</item>
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>pink</item>
+        <item>black</item>
+    </string-array>
+    <string-array name="myBackgrounds">
+        <item>term</item>
+        <item>blue</item>
+        <item>black</item>
+        <item>transparent</item>
+    </string-array>
 </resources>

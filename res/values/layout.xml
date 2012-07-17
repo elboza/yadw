@@ -4,6 +4,8 @@
         <dimen name="heightMax2x1">72dp</dimen>
         <dimen name="width2x1">146dp</dimen>
         <dimen name="height2x1">72dp</dimen>
+        <dimen name="width1x1">72dp</dimen>
+        <dimen name="height1x1">72dp</dimen>
         <dimen name="marginBorder">3dip</dimen>
         <color name="terminalBkg">#dd003000</color>
         <color name="borderColor">#00cc00</color>
